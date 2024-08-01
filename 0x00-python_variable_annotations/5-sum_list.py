@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """5. Complex types - list of floats"""
 
-import List from typing
+
+from typing import List
 
 
 def sum_list(input_list: List[float]) -> float:
